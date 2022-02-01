@@ -17982,7 +17982,7 @@ default:return!1}return!0},
 a5E(){var s=0,r=A.a6(t.zG),q,p
 var $async$a5E=A.a2(function(a,b){if(a===1)return A.a3(b,r)
 while(true)switch(s){case 0:s=3
-return A.at(A.aoP(A.lJ("https://newsapi.org/v2/top-headlines?country=ua&apiKey=",0,null)),$async$a5E)
+return A.at(A.aoP(A.lJ("https://newsapi.org/v2/top-headlines?country=ua&apiKey=330dfa8a7a1b48ec96932f8137cba0f4",0,null)),$async$a5E)
 case 3:p=b
 if(p.b===200){q=A.ajz(B.aA.GX(0,A.aoB(A.amI(p.e).c.a.h(0,"charset")).dz(0,p.x),null))
 s=1
